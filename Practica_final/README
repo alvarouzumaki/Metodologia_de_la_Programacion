@@ -20,3 +20,5 @@ El proyecto se trata del famoso juego de mesa Reversi/Othello; nos encontramos
 		-Mediante el comando '?' se indica una pista para posicionar la ficaha
 		-Se han aniadido 3 subturnos para cada jugador.
 		-Se ha aniadido un jugador automatico.
+		
+		Programado en memoria dinamica.
