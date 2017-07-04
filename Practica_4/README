@@ -1,0 +1,5 @@
+Hola Antonio,
+
+He encontardo problemas a la hora de hacer 'make' en los archivos 'matriz_bit.h'
+y 'matriz_operaciones'; no enlaza los archivos 'matriz_bit?.h' y al no hacerlo,
+no se declaran las variables de tipo 'MatrizBit' y tampoco usa sus funciones.
