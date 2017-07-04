@@ -1,0 +1,17 @@
+#MP-TABLERO-REVERSI-1.0
+% Este tablero es muy pequeño, tiene una ficha por turno y
+% está diseñado para poder jugar una partida con finalización rápida.
+% Además, es trivial poner una primera ficha que también provoque un "pasar"
+5 5
+1 1 1 1 1 
+0 0 2 2 2 
+0 0 2 2 0 
+0 0 2 0 0 
+0 0 0 0 0 
+% Turno
+1
+% Fichas que restan por poner. En principio, las mismas que el máximo
+1
+% Máximo de fichas por turno
+1
+

@@ -1,0 +1,22 @@
+******************************************************************************
+Esta proyecto ha sido llevado a cabo por alvarouzumaki y svela, tanto la 
+version 1 como la version 2.
+
+El proyecto se trata del famoso juego de mesa Reversi/Othello; nos encontramos
+2 versiones del juego.
+	
+	-Version 1:
+		-Crear un tablero de entre 4x4 hasta 10x10.
+		-Nombrar a los jugadores.
+		-Interrumpir la partida en cualquier momento.
+		-Contador de puntiacion.
+
+		En cuanto a la programacion, hablando en terminos de memoria
+		principal, esta realizado con memoria estatica.
+
+	-Version 2:
+		-Esta version incluye todo lo que tiene la anterior.
+		-Se puede cargar y guardar una partida y tablero.
+		-Mediante el comando '?' se indica una pista para posicionar la ficaha
+		-Se han aniadido 3 subturnos para cada jugador.
+		-Se ha aniadido un jugador automatico.
