@@ -9,7 +9,7 @@ El proyecto se trata del famoso juego de mesa Reversi/Othello; nos encontramos
 		-Crear un tablero de entre 4x4 hasta 10x10.
 		-Nombrar a los jugadores.
 		-Interrumpir la partida en cualquier momento.
-		-Contador de puntiacion.
+		-Contador de puntuacion.
 
 		En cuanto a la programacion, hablando en terminos de memoria
 		principal, esta realizado con memoria estatica.
